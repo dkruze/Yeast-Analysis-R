@@ -5,4 +5,5 @@ that is relevant) are included in comments within the source code. The data bein
 for convenience it will also be listed here:
   https://archive.ics.uci.edu/ml/datasets/Yeast
   
-These data models were built as part of the CSCI48900 Data Science & Machine Learning course for IUPUI.
+The data will also be incuded in CSV format for download from this repository. These data models were built as part of the CSCI48900 Data Science & Machine Learning 
+course for IUPUI.
