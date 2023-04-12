@@ -1,6 +1,6 @@
 library(tidyverse)
 library(sqldf)
-source("../UtilityFunctions.R")
+source("UtilityFunctions.R")
 
 # Read in the initial Yeast Sequence Data Set from UCI, and give it functional names
 df1 <- read.csv("yeast.csv", header = FALSE, sep = "", dec = ".")
